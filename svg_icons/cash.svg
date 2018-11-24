@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70" style="width: 100%; height: 100%;"><desc>Made with illustrio</desc>
+  
+<g class="base"><g fill="none" fill-rule="evenodd" stroke="none" class="main-fill">
+    
+    
+  </g><g fill="none" transform="translate(18.025 22.458)" stroke="none" class="main-fill">
+      <polygon points="9.014 .045 9.014 2.309 31.64 2.309 31.64 15.884 33.902 15.884 33.902 .045" fill="none" stroke="none" class="main-fill"></polygon>
+      <g transform="translate(0 9.1)" fill="none" stroke="none" class="main-fill">
+        <path d="M12.4434333,11.346475 C14.3080583,11.346475 15.819475,9.8308 15.819475,7.97043333 C15.819475,6.10726667 14.308,4.59439167 12.4434333,4.59439167 C10.5802667,4.59439167 9.06733333,6.10726667 9.06733333,7.97043333 C9.06593333,9.8322 10.5788083,11.346475 12.4434333,11.346475 L12.4434333,11.346475 Z M12.4434333,5.57888333 C13.7627583,5.57888333 14.832125,6.65385 14.832125,7.971775 C14.832125,9.2869 13.7614167,10.3618667 12.4434333,10.3618667 C11.12545,10.3618667 10.0547417,9.2869 10.0547417,7.971775 C10.0547417,6.65385 11.1241083,5.57888333 12.4434333,5.57888333 L12.4434333,5.57888333 Z" fill="none" stroke="none" class="main-fill"></path>
+        <path d="M0,15.8907583 L24.8882667,15.8907583 L24.8882667,0.05145 L0,0.05145 L0,15.8907583 L0,15.8907583 Z M2.261525,5.81338333 C4.19533333,5.81338333 5.76333333,4.24824167 5.76333333,2.31583333 L19.1263333,2.31583333 C19.1263333,4.24824167 20.691475,5.81338333 22.6238833,5.81338333 L22.6238833,10.127425 C20.691475,10.127425 19.1263333,11.6925667 19.1263333,13.626375 L5.76333333,13.626375 C5.76333333,11.6939667 4.19679167,10.127425 2.261525,10.127425 L2.261525,5.81338333 L2.261525,5.81338333 Z" fill="none" stroke="none" class="main-fill"></path>
+      </g>
+      <polygon points="4.454 6.872 27.078 6.872 27.078 20.446 29.342 20.446 29.342 4.61 4.454 4.61" fill="none" stroke="none" class="main-fill"></polygon>
+    </g></g><style>
+          .main-fill {fill: #64729C;}
+          .main-stroke {stroke: #64729C;}
+          .secondary-fill {fill: #eeeeee;}
+          .secondary-stroke {stroke: #eeeeee;}
+
+          .main-fill--darken {fill: #46506e;}
+          .main-stroke--darken {stroke: #46506e;}
+          .secondary-fill--darken {fill: #c8c8c8;}
+          .secondary-stroke--darken {stroke: #c8c8c8;}
+
+          .main-fill--darkener {fill: #32394e;}
+          .main-stroke--darkener {stroke: #32394e;}
+          .secondary-fill--darkener {fill: #aeaeae;}
+          .secondary-stroke--darkener {stroke: #aeaeae;}
+        </style></svg>
